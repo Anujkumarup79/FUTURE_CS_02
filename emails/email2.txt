@@ -1,0 +1,13 @@
+From: support@amaz0n.in
+To: user@gmail.com
+Subject: Account Alert
+
+Dear User,
+
+We noticed unusual activity in your account.
+Please verify your account using the link below:
+
+http://amaz0n-login.com
+
+Regards,
+Support Team
