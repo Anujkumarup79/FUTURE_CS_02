@@ -1,0 +1,10 @@
+From: support@amazon.in
+To: user@gmail.com
+Subject: Order Confirmation
+
+Dear Customer,
+
+Thank you for your purchase. Your order has been successfully placed.
+
+Regards,
+Amazon Team
